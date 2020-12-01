@@ -1,2 +1,2 @@
 # CMPM-35-Three.js
-![Image text](https://github.com/screenshot.png)
+![Image text](https://github.com/raynaaa0313/CMPM-35-Three.js/screenshot.png)
